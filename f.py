@@ -1,4 +1,5 @@
 #python casting 
+#in this file i will work with float integer and string then i will transform them
 #float
 a = float(1)     # x will be 1.0
 b = float(2.8)   # y will be 2.8

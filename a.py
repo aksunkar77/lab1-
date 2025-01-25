@@ -1,2 +1,0 @@
-#hellooo
-print("Hello world!")

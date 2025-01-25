@@ -1,3 +1,4 @@
+#in this file i will practice variables in python
 #variable names
 #legal variables 
 myvar = "apple"
